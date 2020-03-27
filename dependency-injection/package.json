@@ -1,0 +1,13 @@
+{
+  "name": "dependency-injection",
+  "version": "1.0.0",
+  "description": "Dependency Injection Example - Vetta Tech Talks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Julio Cesar Bolaños Palacios",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
